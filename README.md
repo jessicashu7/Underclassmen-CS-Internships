@@ -1,6 +1,6 @@
 # Summer Internships for Computer Science Underclassmen
 
-I compiled a list of computer science internships that are specifically targeted towards freshmen and sophomores. I encourage all underclassmen computer science students (especially those who are underrepresented in technology) to apply :)
+I compiled a list of computer science internships (I copied descriptions from the respective websites) that are specifically targeted towards freshmen and sophomores. I encourage all underclassmen computer science students (especially those who are underrepresented in technology) to apply :)
 
 | Program Name | Description |
 | ---------------- | ---------------- |
